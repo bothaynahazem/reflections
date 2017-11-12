@@ -1,0 +1,3 @@
+There're hidden files in the git repository.
+They start with a period "." and that's why the OS hides them.
+To view them, type "ls -a" in the cmd ln 
