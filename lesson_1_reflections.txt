@@ -1,0 +1,7 @@
+The FC or diff cmds helped me see the differences by only getting the lines that changed and putting them between asterisks
+
+Having the history of all the files that have been updated will help me when I need to go back to older versions to check for something I need that has changed
+
+
+git log --> then press 'q' to exit
+git diff first_commit_id second_commit_id
